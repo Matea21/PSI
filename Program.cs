@@ -7,7 +7,7 @@ namespace PISLabVj1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Novo");
+            Console.WriteLine("Novo2");
           
         }
     }
